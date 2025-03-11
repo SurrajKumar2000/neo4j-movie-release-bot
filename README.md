@@ -1,4 +1,4 @@
-neo4j-movie-release-bot
+### Neo4j-movie-release-bot
 
 A Python-based chatbot that uses Neo4j to fetch and provide movie information, such as release dates, directors, and more. This project demonstrates the integration of Neo4j with natural language processing (NLP) to create an interactive movie query bot.
 Features
